@@ -73,7 +73,7 @@ The dataset contains health records of individuals across different regions, wit
 
 ## 🎥 Video Walkthrough
 
-📺 [Video link here — paste your Google Drive ("Anyone with link can view") or YouTube (Unlisted) link before submitting]
+📺 [https://drive.google.com/file/d/1-ZlgYU4E7H02bwtTFP28hCCDBezwZcAU/view?usp=sharing]
 
 ## ▶️ How to Run
 
