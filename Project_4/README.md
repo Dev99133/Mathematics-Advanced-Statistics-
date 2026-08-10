@@ -79,6 +79,8 @@ By completing this project you will:
 - Build confidence using linear algebra foundations in applied statistics and
   machine learning.
 
+## Video Link - [https://drive.google.com/file/d/1C2HpZy3zVmRUimxzzUTmTegKFZc2rdAs/view?usp=sharing]
+
 ## Author's Notes
 
 - All charts are labeled with titles/axes, and every result is followed by a short
